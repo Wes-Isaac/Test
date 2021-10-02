@@ -4,9 +4,6 @@ Portfolio: setup and mobile version skeleton
 
 > This project is my portfolio setup for mobile device.
 
-![screenshot](./images/Screenshot.png)
-![screenshot](./images/about.png)
-![screenshot](./images/about-2.png)
 
 
 Additional description about the project and its features.
@@ -17,10 +14,11 @@ It is bult with flexbox and css grid. It contains images some are background ima
 
 - HTML
 - CSS
+- JavaScript
 
 ## Live Demo
 
-[Live Demo Link](https://wes-isaac.github.io/Portfolio/)
+[Live Demo Link]( https://wes-isaac.github.io/Test/)
 
 
 
