@@ -9,6 +9,10 @@
   display: none;
 }
 
+.invisible {
+  display: none;
+}
+
 body {
   position: relative;
 }
